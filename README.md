@@ -1,4 +1,2 @@
-## Hi there, I am Arturs Kaufmanis👋
-Cybersecurity proffessional
-Welcome to my GitHub profile. I am cybersecurity professional with an extensive experience 
-in militrary and law enforcement.
+## Hi there 👋
+My name is Arturs Kaufmanis. Over the years I have been working in law enforcement and military which made me curious and proceed to cyber security due to the latest trends and crime patterns.
