@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Arturs Kaufmanis. Through my career in military service and law enforcement, I observed the evolution of criminal activities toward digital platforms, prompting my transition into cybersecurity.
+My name is Arturs Kaufmanis. Through my career in military service and law enforcement, I observed the evolution of criminal activities toward digital platforms, prompting my transition into IT/cybersecurity.
 
 Technical Skills: Python • Kali Linux • Networking TCP/UDP/OSI • Cryptography • Penetration Testing • Ethical Hacking.
 
