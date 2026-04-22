@@ -7,4 +7,4 @@ Ubuntu • Windows 10 • Windows 11 • Troubleshooting • Microsoft 365 • S
 
 Soft Skills: Analytical thinking • Effective communication • Adaptability • Problem-solving.
 
-This is one of the places where I continue my cybersecurity professional development.
+This is one of the places where I continue my IT/cybersecurity professional development.
