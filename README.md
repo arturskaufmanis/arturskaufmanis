@@ -5,7 +5,7 @@ Technical Skills: Python • Kali Linux • Networking TCP/IP/UDP/OSI • Crypto
 • WSL2 • Rocky Linux • Cockpit • Bloodhound • Sharphound • PingCastle • Active Directory • PowerShell • CMD • Bash • Software installation • Sofware configuration • Firewall •
 Ubuntu • Windows 10 • Windows 11 • Troubleshooting • Microsoft 365 • Sysmon • OpenVPN
 
-More projects  in repository section.
+More projects  in the repository section.
 
 Soft Skills: Analytical thinking • Effective communication • Adaptability • Problem-solving.
 
