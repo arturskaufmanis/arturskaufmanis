@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Arturs Kaufmanis. Through my career in military service and law enforcement, I observed the evolution of criminal activities toward digital platforms, prompting my transition into IT/cybersecurity.
+With a background in military service and law enforcement, I transitioned into IT/cybersecurity motivated by two factors: the increasing migration of criminal activity to digital platforms, and a deep interest in technological advancement.
 
 Technical Skills: Python • Kali Linux • Networking TCP/IP/UDP/OSI • Cryptography • Penetration Testing • Windows server 2025 (datacenter edition) • Docker 
 • WSL2 • Rocky Linux • Cockpit • Bloodhound • Tailscale • Remmina • RDS • VPN • Sharphound • PingCastle • Active Directory • FreeIPA • PowerShell • CMD • Bash • Software installation • Software configuration • Firewall •
